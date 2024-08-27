@@ -1,0 +1,6 @@
+[submodule "Anisette Server"]
+	path = Anisette Server
+	url = git@github.com:Dadoum/anisette-v3-server.git
+[submodule "Sideloader"]
+	path = Sideloader
+	url = git@github.com:NyaMisty/AltServer-Linux.git
